@@ -1,11 +1,6 @@
 # FileFerry - A Secure File Sharing Platform (MongoDB)
 
-Welcome to the GitHub repository for FileFerry, a web-based file sharing platform built with MongoDB.
-
-Developers: 
-- Dias Mustafin ([@dmustafinnn](https://github.com/dmustafinnn))
-- Sasanka Kosuru ([@ksasanka11](https://github.com/ksasanka11))
-- Anahita Dinesh ([@anahita20](https://github.com/anahita20))
+Welcome to the GitHub repository for File Sharing, a web-based file sharing platform built with MongoDB.
 
 API Documentation: https://documenter.getpostman.com/view/9930451/2s93XyUiBq
 
